@@ -148,7 +148,7 @@ Déchiffrer les communications HTTPS
 
 Observer les requêtes et réponses sécurisées
 
-⚠️ Ce certificat doit être installé uniquement dans un environnement de laboratoire (émulateur) et jamais sur un appareil personnel.
+Ce certificat doit être installé uniquement dans un environnement de laboratoire (émulateur) et jamais sur un appareil personnel.
 
 10. Conclusion
 
